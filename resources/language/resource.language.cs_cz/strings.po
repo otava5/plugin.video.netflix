@@ -998,7 +998,7 @@ msgstr ""
 
 msgctxt "#30404"
 msgid "Clear search history"
-msgstr ""
+msgstr "Vymazat historii vyhledávání"
 
 msgctxt "#30405"
 msgid "Select the language"
